@@ -102,5 +102,5 @@ Then open the local address printed by Dash in your browser. The app reads `spac
 
 Add your name and links here before publishing:
 
-- **GitHub:** [Your GitHub profile](https://github.com/harshit-09-ds)
-- **LinkedIn:** [Your LinkedIn profile](https://www.linkedin.com/in/harshit-singh-240529407)
+- **GitHub:** [https://github.com/harshit-09-ds](https://github.com/harshit-09-ds)
+- **LinkedIn:** [https://www.linkedin.com/in/harshit-singh-240529407](https://www.linkedin.com/in/harshit-singh-240529407)
